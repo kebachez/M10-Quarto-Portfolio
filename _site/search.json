@@ -215,5 +215,47 @@
     "title": "Customizing Quarto with CSS and SCSS",
     "section": "Conclusion",
     "text": "Conclusion\nLearning CSS and SCSS provides greater control over Quarto website design.\nThese skills are useful for creating professional portfolios, marketing reports, and interactive analytics presentations."
+  },
+  {
+    "objectID": "submission.html",
+    "href": "submission.html",
+    "title": "M10 – Sharing Outputs with the Audience",
+    "section": "",
+    "text": "For this assignment, I developed a professional portfolio website using Quarto and Positron to demonstrate my understanding of website development, analytics dashboards, CSS/SCSS customization, and automated portfolio listings.\nThe website highlights my academic background, professional experience, technical skills, and graduate-level marketing analytics projects."
+  },
+  {
+    "objectID": "submission.html#project-overview",
+    "href": "submission.html#project-overview",
+    "title": "M10 – Sharing Outputs with the Audience",
+    "section": "",
+    "text": "For this assignment, I developed a professional portfolio website using Quarto and Positron to demonstrate my understanding of website development, analytics dashboards, CSS/SCSS customization, and automated portfolio listings.\nThe website highlights my academic background, professional experience, technical skills, and graduate-level marketing analytics projects."
+  },
+  {
+    "objectID": "submission.html#website-components",
+    "href": "submission.html#website-components",
+    "title": "M10 – Sharing Outputs with the Audience",
+    "section": "Website Components",
+    "text": "Website Components\n\n1. Home Page\nIntroduces my professional background, education, technical skills, work experience, and career aspirations in digital marketing and analytics.\n\n\n2. Quarto Dashboard\nShowcases my Culminating Experience Project with Wellness Ranch Equine Assisted Therapy, including GA4 measurement, conversion tracking, and marketing performance indicators.\n\n\n3. CSS/SCSS Customization\nDemonstrates how CSS and SCSS can improve website appearance, typography, navigation, and design consistency.\n\n\n4. Portfolio Listings\nUses Quarto Listings to automatically organize and display selected academic and marketing analytics projects."
+  },
+  {
+    "objectID": "submission.html#published-website",
+    "href": "submission.html#published-website",
+    "title": "M10 – Sharing Outputs with the Audience",
+    "section": "Published Website",
+    "text": "Published Website\nClick Here to View My Published Quarto Website"
+  },
+  {
+    "objectID": "submission.html#github-repository",
+    "href": "submission.html#github-repository",
+    "title": "M10 – Sharing Outputs with the Audience",
+    "section": "GitHub Repository",
+    "text": "GitHub Repository\nClick Here to View My GitHub Repository"
+  },
+  {
+    "objectID": "submission.html#learning-reflection",
+    "href": "submission.html#learning-reflection",
+    "title": "M10 – Sharing Outputs with the Audience",
+    "section": "Learning Reflection",
+    "text": "Learning Reflection\nThis assignment strengthened my understanding of how Quarto can be used to create and publish professional websites.\nI gained hands-on experience developing website navigation, organizing content, building dashboards, applying custom styling, and implementing automated portfolio listings.\nI also learned how to use GitHub and GitHub Pages to share analytical work with a broader audience.\nThese skills will be valuable for communicating future marketing research findings, developing analytics reports, and presenting professional projects."
   }
 ]

@@ -1,0 +1,52 @@
+---
+title: "M10 – Sharing Outputs with the Audience"
+subtitle: "Quarto Portfolio Website Development"
+author: "Kevin Bachez"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: true
+---
+
+## Project Overview
+
+For this assignment, I developed a professional portfolio website using Quarto and Positron to demonstrate my understanding of website development, analytics dashboards, CSS/SCSS customization, and automated portfolio listings.
+
+The website highlights my academic background, professional experience, technical skills, and graduate-level marketing analytics projects.
+
+## Website Components
+
+### 1. Home Page
+
+Introduces my professional background, education, technical skills, work experience, and career aspirations in digital marketing and analytics.
+
+### 2. Quarto Dashboard
+
+Showcases my Culminating Experience Project with Wellness Ranch Equine Assisted Therapy, including GA4 measurement, conversion tracking, and marketing performance indicators.
+
+### 3. CSS/SCSS Customization
+
+Demonstrates how CSS and SCSS can improve website appearance, typography, navigation, and design consistency.
+
+### 4. Portfolio Listings
+
+Uses Quarto Listings to automatically organize and display selected academic and marketing analytics projects.
+
+## Published Website
+
+[**Click Here to View My Published Quarto Website**](https://kebachez.github.io/M10-Quarto-Portfolio/)
+
+## GitHub Repository
+
+[**Click Here to View My GitHub Repository**](https://github.com/kebachez/M10-Quarto-Portfolio)
+
+## Learning Reflection
+
+This assignment strengthened my understanding of how Quarto can be used to create and publish professional websites.
+
+I gained hands-on experience developing website navigation, organizing content, building dashboards, applying custom styling, and implementing automated portfolio listings.
+
+I also learned how to use GitHub and GitHub Pages to share analytical work with a broader audience.
+
+These skills will be valuable for communicating future marketing research findings, developing analytics reports, and presenting professional projects.
