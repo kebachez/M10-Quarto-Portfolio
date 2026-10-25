@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "60abf49d"
+  },
+  "dashboard.qmd": {
+    "dashboard.html": "fd806885"
+  },
+  "about.qmd": {
+    "about.html": "da62ad3c"
+  },
+  "styling.qmd": {
+    "styling.html": "13859d61"
+  },
+  "listings.qmd": {
+    "listings.html": "cbf7ff28"
+  },
+  "projects/wellness-ranch.qmd": {
+    "wellness-ranch.html": "1a22f07d"
+  },
+  "projects/marketing-research.qmd": {
+    "marketing-research.html": "eb374cf1"
+  }
+}

@@ -1,0 +1,31 @@
+
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Kevin Bachez | Marketing Analytics"
+
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CEP Dashboard"
+        href: dashboard.qmd
+      - text: "CSS/SCSS"
+        href: styling.qmd
+      - text: "Portfolio Listings"
+        href: listings.qmd
+
+  page-footer:
+    center: "Kevin Bachez | Digital Marketing & Analytics"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-copy: true
+    smooth-scroll: true

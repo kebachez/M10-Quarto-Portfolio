@@ -1,0 +1,17 @@
+/* css styles */
+
+h1, h2, h3 {
+  color: #17365d;
+}
+
+.navbar {
+  font-weight: 600;
+}
+
+main.content {
+  line-height: 1.8;
+}
+
+a:hover {
+  text-decoration: underline;
+}

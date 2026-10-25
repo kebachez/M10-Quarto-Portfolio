@@ -1,0 +1,28 @@
+---
+title: "Customer Analytics and Marketing Research"
+description: "Consumer behavior research, survey design, and marketing analytics."
+categories:
+  - Marketing Research
+  - Consumer Behavior
+  - Qualtrics
+---
+
+## Project Overview
+
+Through my graduate coursework at Cal Poly Pomona, I have applied marketing research methodologies to better understand consumer behavior, purchasing decisions, and customer engagement.
+
+## Research Activities
+
+- Developed marketing research questions.
+- Designed survey measures and questionnaires.
+- Applied consumer behavior concepts.
+- Used analytical frameworks to organize research.
+- Communicated research findings and recommendations.
+
+## Tools and Skills
+
+Qualtrics, Marketing Research, Consumer Analytics, Survey Design, and Data Analysis.
+
+## Learning Outcomes
+
+This work strengthened my ability to develop research questions, evaluate consumer behavior, and support marketing decisions using structured research methods.

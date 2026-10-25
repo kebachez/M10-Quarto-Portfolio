@@ -1,0 +1,122 @@
+---
+title: "Wellness Ranch | Marketing Analytics"
+author: "Kevin Bachez"
+format:
+  dashboard:
+    theme: cosmo
+    scrolling: true
+    orientation: rows
+---
+
+
+# Overview
+
+## Row
+
+### Project Overview
+
+Wellness Ranch Equine Assisted Therapy is the focus of my Master's Culminating Experience Project.
+
+### My Role
+
+**Analytics Lead**
+
+My responsibilities include:
+
+- Google Analytics 4 implementation and validation
+- Website engagement analysis
+- Conversion tracking
+- KPI development
+- Marketing performance measurement
+
+# GA4 Measurement
+
+## Row
+
+### Tracking Verification
+
+| GA4 Event | Measurement Purpose | Status |
+|---|---|---|
+| page_view | Website visits | Verified |
+| user_engagement | User engagement | Verified |
+| form interactions | Form activity | Verified |
+| generate_lead | Lead generation | Verified |
+
+### Analytics Tools
+
+| Tool | Application |
+|---|---|
+| Google Analytics 4 | Website analytics |
+| Google Tag Assistant | Tracking verification |
+| GA4 DebugView | Event validation |
+| Google Search Console | Search performance |
+| Quarto | Reporting and visualization |
+
+# Conversion Funnel
+
+## Row
+
+### Website Conversion Journey
+
+```{mermaid}
+flowchart TD
+    A[Website Visit] --> B[Program Exploration]
+    B --> C[Contact Form Interaction]
+    C --> D[Lead Submission]
+    D --> E[GA4 Key Event]
+```
+
+### Conversion Tracking Strategy
+
+The conversion tracking framework focuses on identifying meaningful interactions between website visitors and Wellness Ranch.
+
+Important measurement areas include:
+
+1. Website visits
+2. Program interest
+3. Contact form interactions
+4. Appointment inquiries
+5. Lead generation
+
+The `generate_lead` event was tested through GA4 DebugView and configured as a key event.
+
+# Performance Framework
+
+## Row
+
+### Key Performance Indicators
+
+| KPI | Purpose |
+|---|---|
+| Website Traffic | Measure website visibility |
+| Engagement Rate | Evaluate visitor interaction |
+| Traffic Sources | Understand acquisition channels |
+| Lead Generation | Track visitor inquiries |
+| Conversion Rate | Evaluate marketing effectiveness |
+
+### Marketing Optimization Priorities
+
+The project identifies opportunities to improve:
+
+- Search engine visibility
+- Website content quality
+- Internal navigation
+- Calls to action
+- Conversion measurement
+- Audience engagement
+
+# Recommendations
+
+## Row
+
+### Proposed Next Steps
+
+1. Continue validating GA4 event collection.
+2. Establish baseline website performance metrics.
+3. Analyze traffic acquisition and engagement.
+4. Evaluate lead generation and inquiry activity.
+5. Connect website improvements with measurable outcomes.
+
+### Expected Impact
+
+The analytics framework will help Wellness Ranch better understand website engagement, assess marketing effectiveness, and identify opportunities to improve lead generation and donor outreach.

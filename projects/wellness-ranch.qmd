@@ -1,0 +1,30 @@
+---
+title: "Wellness Ranch Digital Analytics"
+description: "GA4 measurement, website engagement, SEO, and conversion tracking."
+categories:
+  - Google Analytics 4
+  - Digital Marketing
+  - Conversion Measurement
+---
+
+## Project Overview
+
+Wellness Ranch Equine Assisted Therapy is the focus of my graduate Culminating Experience Project at Cal Poly Pomona.
+
+The project involves evaluating website performance, digital marketing effectiveness, and opportunities to improve online engagement.
+
+## My Contributions
+
+- Developed and validated GA4 tracking.
+- Examined website engagement and acquisition channels.
+- Evaluated lead-generation measurement.
+- Identified SEO and website content opportunities.
+- Supported recommendations for improving marketing performance.
+
+## Tools and Skills
+
+Google Analytics 4, Google Tag Assistant, GA4 DebugView, SEO, and Marketing Analytics.
+
+## Project Dashboard
+
+[View My Wellness Ranch Dashboard](../dashboard.qmd)

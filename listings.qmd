@@ -1,0 +1,29 @@
+---
+title: "Marketing & Analytics Portfolio"
+subtitle: "Selected Professional and Academic Projects"
+listing:
+  contents: "projects/*.qmd"
+  type: grid
+  sort: "title"
+  fields: [title, description, categories]
+---
+
+## Explore My Projects
+
+Welcome to my digital marketing and analytics portfolio.
+
+This collection highlights selected academic and professional projects involving marketing analytics, website performance measurement, consumer research, and digital marketing strategy.
+
+## How Quarto Listings Work
+
+Quarto Listings automatically organizes documents from a designated folder and displays them in a structured format.
+
+For this portfolio, I use a grid layout that makes it easy for visitors to explore individual projects.
+
+## Benefits of Listings
+
+- Automatically organizes project entries
+- Provides consistent navigation
+- Supports portfolio expansion
+- Makes research and analytics projects easier to discover
+- Improves the presentation of professional work

@@ -1,0 +1,141 @@
+---
+title: "Kevin Bachez"
+subtitle: "Digital Marketing & Analytics Professional"
+toc: false
+---
+
+![](images/profile.jpg){width=200px fig-alt="Professional photograph of Kevin Bachez"}
+
+## About Me
+
+Welcome to my digital portfolio!
+
+I am a marketing and analytics professional currently pursuing a Master of Science in Digital Marketing and Analytics at California State Polytechnic University, Pomona.
+
+My professional background includes digital campaign management, social media marketing, marketing research, and data-driven strategy.
+
+I am passionate about combining creativity with analytics to help organizations understand their audiences, improve engagement, and achieve measurable marketing results.
+
+Through professional internships, academic projects, and teaching experience, I have developed skills in marketing analytics, digital strategy, and communication.
+
+## Education
+
+### California State Polytechnic University, Pomona
+
+**Master of Science in Digital Marketing and Analytics**
+
+Expected Graduation: 2027
+
+### Biola University
+
+**Bachelor of Science in Business Administration**
+
+Graduated: May 2025
+
+## Professional Experience
+
+### Instructional Student Assistant
+**California State Polytechnic University, Pomona | September 2026 – Present**
+
+- Assist with grading and evaluating undergraduate marketing assignments.
+- Provide feedback to students on marketing concepts and assignments.
+- Support classroom activities and course administration.
+
+### Marketing Intern
+**Urban Youth Workers Institute | April 2025 – June 2025**
+
+- Developed and executed digital marketing content strategies.
+- Generated more than 74,000 views and 2,700 interactions.
+- Contributed to gaining 338 new Instagram followers.
+- Supported social media, email, and website marketing initiatives.
+
+### Marketing Intern
+**Biola University | August 2024 – May 2025**
+
+- Increased Instagram followers by 17% over nine months.
+- Generated more than 52,000 views and 1,300 interactions.
+- Managed content calendars and digital marketing campaigns.
+- Created marketing materials while maintaining brand consistency.
+
+### Social Media Manager & Content Creator
+**One Fresh Cookie Co. | September 2023 – January 2024**
+
+- Created engaging digital content to support brand awareness and sales.
+- Managed social media platforms with a combined audience of 1,500+.
+- Increased follower count by 20%.
+
+### Social Media Marketing Specialist
+**University of California, Riverside | March 2023 – August 2023**
+
+- Created digital promotional materials and marketing communications.
+- Supported campus events and promotional campaigns.
+- Managed social media accounts with more than 2,000 followers.
+
+## Technical Skills
+
+### Data Analytics and Visualization
+
+- Google Analytics 4 (GA4)
+- SQL
+- R and RStudio
+- Tableau
+- Looker Studio
+- Power BI
+- Positron and Quarto
+
+### Marketing and Research
+
+- Search Engine Optimization (SEO)
+- Marketing Performance Analysis
+- Conversion Measurement
+- KPI Development
+- Qualtrics
+- Survey Design
+- Social Media Analytics
+- Email Marketing
+
+### Creative and Communication Tools
+
+- Adobe Creative Suite
+- Canva Pro
+- Mailchimp
+- Microsoft Office
+- Google Workspace
+
+## Featured Analytics Project
+
+### Wellness Ranch Equine Assisted Therapy
+
+As part of my graduate Culminating Experience Project, I am working on a digital marketing analytics initiative for Wellness Ranch Equine Assisted Therapy.
+
+The project focuses on strengthening website performance, measuring user engagement, and improving conversion tracking.
+
+**My primary contributions include:**
+
+1. Developing a Google Analytics 4 measurement framework.
+2. Identifying important website performance indicators.
+3. Validating website engagement and lead-generation events.
+4. Evaluating conversion measurement opportunities.
+5. Supporting data-driven marketing recommendations.
+
+[Explore My CEP Dashboard](dashboard.qmd)
+
+## Marketing Research Experience
+
+My academic research experience includes applying marketing research methodologies to examine consumer behavior and purchasing decisions.
+
+I have worked with Qualtrics, survey design, analytical frameworks, and research reporting tools to support evidence-based marketing decisions.
+
+## Career Aspirations
+
+My professional goal is to advance in digital marketing and marketing analytics, helping organizations translate data into actionable marketing strategies.
+
+I am also interested in higher education, particularly teaching marketing and potentially pursuing doctoral studies in the future.
+
+## Connect With Me
+
+**Email:** [kevinb.03@outlook.com](mailto:kevinb.03@outlook.com)
+
+**Professional Portfolio:** [Visit My Portfolio](https://kevin-bachez.weebly.com/)
+
+**Languages:** English and Spanish

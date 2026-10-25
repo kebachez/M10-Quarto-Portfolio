@@ -1,0 +1,91 @@
+
+---
+title: "Customizing Quarto with CSS and SCSS"
+subtitle: "Website Design and Styling"
+---
+
+## Introduction
+
+CSS (Cascading Style Sheets) is used to customize the appearance of websites, including typography, colors, spacing, and layout.
+
+SCSS (Sassy CSS) extends CSS by allowing developers to use variables, nesting, and reusable styling patterns.
+
+These technologies help create websites that are visually consistent, accessible, and professional.
+
+## Why Website Styling Matters
+
+Website styling is important because it influences how visitors interact with digital content.
+
+Effective styling improves:
+
+- Readability and information hierarchy
+- Website navigation
+- Brand consistency
+- Mobile responsiveness
+- User experience
+
+## CSS in Quarto
+
+Quarto websites can use external CSS files to customize their appearance.
+
+For example, a custom stylesheet can change heading colors:
+
+```css
+h1 {
+  color: #17365d;
+  font-weight: 700;
+}
+```
+
+This makes headings visually consistent across the website.
+
+## SCSS in Quarto
+
+SCSS provides additional features that make styling more efficient.
+
+For example, SCSS variables allow developers to define and reuse colors:
+
+```scss
+$primary: #17365d;
+$secondary: #607d8b;
+```
+
+SCSS also supports nested rules:
+
+```scss
+.navbar {
+  font-weight: 600;
+
+  a {
+    text-decoration: none;
+  }
+}
+```
+
+## How I Customized My Portfolio
+
+I applied custom CSS styling to my Quarto portfolio to create a professional appearance.
+
+My design choices emphasize:
+
+1. Consistent typography
+2. Clear navigation
+3. Professional colors
+4. Readable page layouts
+5. Organized content presentation
+
+## CSS vs. SCSS
+
+| Feature | CSS | SCSS |
+|---|---|---|
+| Styling | Yes | Yes |
+| Variables | Native custom properties | SCSS variables |
+| Nesting | Supported in modern CSS | Supported |
+| Quarto integration | External stylesheet | Theme customization |
+| Compilation | No preprocessor required | Requires Sass compilation |
+
+## Conclusion
+
+Learning CSS and SCSS provides greater control over Quarto website design.
+
+These skills are useful for creating professional portfolios, marketing reports, and interactive analytics presentations.
